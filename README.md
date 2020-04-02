@@ -1,2 +1,2 @@
 # control-repo
-This is a reame
+This is a readme
